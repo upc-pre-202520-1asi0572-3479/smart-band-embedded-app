@@ -1,4 +1,4 @@
-# embedded-system-heart-rate
+# smart-band-embedded-app
 
 ## Summary
 This project uses Wokwi Custom Chip API to build a simulated SEN-11574 Pulse Sensor, connected to an ESP32. 
